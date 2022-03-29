@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @YULitle
-- 👀 I’m interested in coding solutions for instructing on statistical analysis.
-- 🌱 I’m currently learning PowerBi
+- 👀 I’m interested in coding solutions for instructing programming, physics, math, and/or statistical analysis.
+- 🌱 I’m currently learning [Data Science with Python](https://www.coursera.org/professional-certificates/ibm-data-science)
 - 📫 How to reach me : yulitle (at) gmail (dot) com
